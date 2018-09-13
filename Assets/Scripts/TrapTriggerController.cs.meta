@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 511e3b13497f647478b6adcdf35d46cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cubeTrap: {fileID: 1954910475774874, guid: f90abcca1e7395241bdb3bb3ef54b77f, type: 2}
+  - ballTrap: {instanceID: 0}
+  - deathTrap: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
